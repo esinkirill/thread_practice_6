@@ -16,3 +16,10 @@
 
 https://github.com/esinkirill/thread_practice_6/assets/78916798/d85d1d34-9dbe-4c08-985c-0dc39150064b
 
+
+
+
+## Home video
+
+https://github.com/esinkirill/thread_practice_6/assets/78916798/81d1d8b9-a706-4edd-9c3b-ab3fb127030b
+
