@@ -11,7 +11,7 @@ void detectFaces(const cv::Mat& frame, cv::CascadeClassifier& faceCascade, std::
     faceCascade.detectMultiScale(gray, faces, 2, 3, 0, cv::Size(20, 20));
 
     for (const auto& face : faces) {
-        cv::rectangle(frame, face, cv::Scalar(255, 180, 0), 2);
+        cv::rectangle(frame, face, cv::Scalar(0, 0, 255), 2);
     }
 }
 
